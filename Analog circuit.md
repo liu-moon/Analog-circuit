@@ -82,7 +82,8 @@
 * 半导体——硅(Si)、锗(Ge)，均为四价元素，它们原子的最外层电子受原子核的束缚力介于导体与绝缘体之间。
 
 * 本征半导体是纯净(无杂质)的晶体结构(稳定的结构)的半导体。
-<div align=left><img src="/pic/本征半导体结构.png">
+<div align=left><img src="/pic/本征半导体结构.png" height="400" >
+
 
 
 * 自由电子与空穴相碰同时消失，称为复合。
@@ -96,7 +97,8 @@
 ## N型半导体
 
 杂质半导体主要靠多数载流子导电。掺入杂质越多，多子浓度越高，导电性越强，实现导电性可控。
-<div align=left><img src="/pic/N型半导体.png">
+<div align=left><img src="/pic/N型半导体.png" height="400" >
+
 
 
 
@@ -125,7 +127,8 @@ P型半导体主要靠空穴导电，掺入杂志越多，空穴浓度越高，�
 参与扩散运动和漂移运动的载流子数目相同，达到动态平衡，就形成了PN结。
 
 ## PN结加正向电压
-<div align=left><img src="/pic/PN结加正向电压.png">
+<div align=left><img src="/pic/PN结加正向电压.png" height="400">
+
 
 
 
@@ -137,7 +140,8 @@ PN结加正向电压导通：
 R 的必要性：正向电流过大烧毁
 
 ## PN结加反向电压
-<div align=left><img src="/pic/PN结加反向电压.png">
+<div align=left><img src="/pic/PN结加反向电压.png" height="350">
+
 
 
 PN结加反向电压截止：
@@ -150,7 +154,8 @@ PN结加反向电压截止：
 
 ## 势垒电容
 
-<div align=left><img src="/pic/PN结的势垒电容.png">
+<div align=left><img src="/pic/PN结的势垒电容.png" height="350">
+
 
 
 PN结外加电压变化时，空间电荷区的宽度将发生变化，有电荷的积累和释放的过程，与电容的充放电相同。其等效电容称为势垒电容 $C_{b}$ 。$C_{b}$ 主要表现在加反向电压时。
@@ -188,11 +193,13 @@ $i=I_{s}(e^{\frac{qu}{kT}}-1)=I_{s}(e^{\frac{u}{U_{T}}}-1)$
 
 
 # 2.7二极管的直流等效模型
-<div align=left><img src="/pic/等效模型.png">
+<div align=left><img src="/pic/等效模型.png" height="250">
+
 
 ​    
 
-<div align=left><img src="/pic/选择.png">
+<div align=left><img src="/pic/选择.png" height="200">
+
 
 
 
@@ -200,9 +207,10 @@ $i=I_{s}(e^{\frac{qu}{kT}}-1)=I_{s}(e^{\frac{u}{U_{T}}}-1)$
 
 微变等效电路——交流模型(动态模型)
 
-<div align=left><img src="/pic/交变等效.png">
+<div align=left><img src="/pic/交变等效.png" height="200">
 
-<div align=left><img src="/pic/电流方程.png">
+<div align=left><img src="/pic/电流方程.png" height="100">
+
 
 
 
@@ -267,11 +275,10 @@ $i=I_{s}(e^{\frac{qu}{kT}}-1)=I_{s}(e^{\frac{u}{U_{T}}}-1)$
 
 $I_E=I_C+I_B$​                                                                                                                                                                                                               
 
-<div align=left><img src="/pic/外部特性.png">
+<div align=left><img src="/pic/外部特性.png" height="200">
+
 
 # 2.11晶体三极管的输入特性和输出特性
-
-
 
 
 
